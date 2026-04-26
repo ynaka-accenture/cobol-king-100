@@ -1,0 +1,25 @@
+{
+  "name": "COBOL王 100問チャレンジ",
+  "short_name": "COBOL王",
+  "description": "COBOLプログラミング100問チャレンジ。全問正解でCOBOL王の称号を獲得！",
+  "start_url": "./quiz.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0f",
+  "theme_color": "#c9a84c",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
